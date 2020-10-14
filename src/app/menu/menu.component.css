@@ -1,0 +1,15 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    padding-top: 20px;
+  }
+  
+
+  .logo {
+    grid-column: 1;
+    background-color: red;
+  }
+    
+  .item2 {
+    grid-column:5;
+  }
