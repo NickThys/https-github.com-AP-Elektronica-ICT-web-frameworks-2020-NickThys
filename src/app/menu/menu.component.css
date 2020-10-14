@@ -11,5 +11,19 @@
   }
     
   .item2 {
+    padding-left: 750px;
     grid-column:5;
+  }
+  input[type=button] {
+    
+    background-color:grey;
+    color: black;
+  
+ 
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=search]{
+    border-radius: 4px;
   }

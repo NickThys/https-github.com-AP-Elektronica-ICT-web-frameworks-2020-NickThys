@@ -9,10 +9,12 @@
   
 
   .Titel1 {
+    padding-left: 100px;
     grid-column: 1;
    
   }
     
   .Titel2 {
+    padding-left: 400px;
     grid-column:5;
   }
