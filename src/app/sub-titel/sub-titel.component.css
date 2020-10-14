@@ -1,0 +1,18 @@
+.titels{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto ;
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
+    
+  }
+  
+
+  .Titel1 {
+    grid-column: 1;
+   
+  }
+    
+  .Titel2 {
+    grid-column:5;
+  }

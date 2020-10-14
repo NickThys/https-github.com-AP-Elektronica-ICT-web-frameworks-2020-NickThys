@@ -5,6 +5,8 @@ import { AppComponent } from './app.component';
 import { ArticleComponent } from './article/article.component';
 import { PortalComponent } from './portal/portal.component';
 import { MenuComponent } from './menu/menu.component';
+import { SubTitelComponent } from './sub-titel/sub-titel.component';
+import { FormComponent } from './form/form.component';
 
 
 
@@ -14,6 +16,8 @@ import { MenuComponent } from './menu/menu.component';
     ArticleComponent,
     PortalComponent,
     MenuComponent,
+    SubTitelComponent,
+    FormComponent,
 
   ],
   imports: [
