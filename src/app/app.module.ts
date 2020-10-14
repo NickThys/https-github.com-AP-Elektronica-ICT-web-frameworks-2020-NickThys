@@ -3,6 +3,8 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { ArticleComponent } from './article/article.component';
+import { PortalComponent } from './portal/portal.component';
+import { MenuComponent } from './menu/menu.component';
 
 
 
@@ -10,6 +12,8 @@ import { ArticleComponent } from './article/article.component';
   declarations: [
     AppComponent,
     ArticleComponent,
+    PortalComponent,
+    MenuComponent,
 
   ],
   imports: [
